@@ -3,7 +3,7 @@
 move the config.yml file to ~/.config/fusuma/
 
 ```
-mv config.yml ~/.config/fusuma
+mv config.yml ~/.config/fusuma/
 ```
 
 
